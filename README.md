@@ -22,7 +22,7 @@
 
 ![screenshot](screenshot.png)
 
-## Building
+## Building
 
 ```bash
 mkdir build
@@ -31,6 +31,6 @@ qmake ..
 make
 ```
 
-## Running
+## Running
 
 `./sudoku`
