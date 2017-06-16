@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/levels">
+        <file>medium.txt</file>
+        <file>insane.txt</file>
+        <file>hard.txt</file>
+        <file>easy.txt</file>
+    </qresource>
+    <qresource prefix="/assets">
+        <file>undo-icon.png</file>
+        <file>redo-icon.png</file>
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/langs">
+        <file>sudoku_en.qm</file>
+        <file>sudoku_fr.qm</file>
+    </qresource>
+</RCC>
